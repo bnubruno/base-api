@@ -1,7 +1,7 @@
 /**
  *
  */
-package br.com.bnubruno.mapper;
+package br.com.base.mapper;
 
 import java.util.List;
 

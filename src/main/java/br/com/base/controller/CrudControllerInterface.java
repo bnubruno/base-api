@@ -1,7 +1,7 @@
 /**
  *
  */
-package br.com.bnubruno.controller;
+package br.com.base.controller;
 
 import java.util.List;
 
@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletRequest;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.util.UriComponentsBuilder;
 
-import br.com.bnubruno.service.AbstractService;
+import br.com.base.service.AbstractService;
 
 /**
  * @author bnubruno

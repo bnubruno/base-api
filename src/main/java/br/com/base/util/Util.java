@@ -1,4 +1,4 @@
-package br.com.bnubruno.util;
+package br.com.base.util;
 
 import java.util.List;
 import java.util.stream.Collectors;

@@ -1,7 +1,7 @@
 /**
  *
  */
-package br.com.bnubruno.controller;
+package br.com.base.controller;
 
 import java.io.Serializable;
 
@@ -9,8 +9,8 @@ import lombok.Getter;
 
 import org.springframework.beans.factory.annotation.Autowired;
 
-import br.com.bnubruno.mapper.EntityMapper;
-import br.com.bnubruno.service.AbstractService;
+import br.com.base.service.AbstractService;
+import br.com.base.mapper.EntityMapper;
 
 /**
  * @author brnubruno

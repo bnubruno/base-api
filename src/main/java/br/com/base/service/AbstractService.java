@@ -1,7 +1,7 @@
 /**
  *
  */
-package br.com.bnubruno.service;
+package br.com.base.service;
 
 import java.util.List;
 import java.util.Optional;

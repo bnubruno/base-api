@@ -1,7 +1,7 @@
 /**
  *
  */
-package br.com.bnubruno.controller;
+package br.com.base.controller;
 
 import java.io.Serializable;
 import java.util.List;
@@ -24,8 +24,8 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.util.UriComponentsBuilder;
 
-import br.com.bnubruno.mapper.EntityMapper;
-import br.com.bnubruno.service.AbstractService;
+import br.com.base.service.AbstractService;
+import br.com.base.mapper.EntityMapper;
 
 import io.swagger.annotations.ApiImplicitParam;
 import io.swagger.annotations.ApiImplicitParams;

@@ -1,4 +1,4 @@
-package br.com.bnubruno.service;
+package br.com.base.service;
 
 import java.io.Serializable;
 import java.util.List;
@@ -6,7 +6,7 @@ import java.util.Optional;
 
 import lombok.Getter;
 
-import br.com.bnubruno.repository.AbstractCrudRespository;
+import br.com.base.repository.AbstractCrudRespository;
 
 @Getter
 public class AbstractServiceImpl<R extends AbstractCrudRespository<T, ID>, T, ID extends Serializable>

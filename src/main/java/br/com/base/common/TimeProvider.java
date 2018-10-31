@@ -1,4 +1,4 @@
-package br.com.bnubruno.common;
+package br.com.base.common;
 
 import java.io.Serializable;
 import java.time.LocalDate;

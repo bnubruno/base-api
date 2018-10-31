@@ -1,4 +1,4 @@
-package br.com.bnubruno.repository;
+package br.com.base.repository;
 
 import java.io.Serializable;
 

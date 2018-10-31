@@ -1,4 +1,4 @@
-package br.com.bnubruno.exception;
+package br.com.base.exception;
 
 import lombok.Getter;
 
